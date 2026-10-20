@@ -3,7 +3,7 @@
 // from the Authorized JavaScript origins you list in Google Cloud Console.
 export const CONFIG = {
   // 1) Paste your OAuth 2.0 Web client ID here (see SETUP.md).
-  CLIENT_ID: 'PASTE_YOUR_CLIENT_ID.apps.googleusercontent.com',
+  CLIENT_ID: '529853828131-558446aci48kc8r17m5fii7qtfhkjbmp.apps.googleusercontent.com',
 
   // Private Drive folder + manifest created for Fred (owner: greengotme007@gmail.com).
   FOLDER_ID: '1ae510x7HVf-bslM66RFLmJCiB39J921K',
