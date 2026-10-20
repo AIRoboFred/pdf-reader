@@ -1,0 +1,16 @@
+{
+  "manifest": {
+    "version": 1,
+    "updated": "2026-10-17T06:14:00Z",
+    "tags": ["Business plans", "Industry reports"],
+    "items": [
+      { "fileId": "demo-acme", "name": "Acme Solar Co. Business Plan", "tags": ["Business plans"], "added": "2026-10-10", "pages": 2 },
+      { "fileId": "demo-ev", "name": "EV Battery Industry Report 2026", "tags": ["Industry reports"], "added": "2026-10-12", "pages": 2 }
+    ]
+  },
+  "files": [
+    { "id": "demo-acme", "name": "acme-solar-business-plan.pdf", "modifiedTime": "2026-10-10T10:00:00Z", "path": "demo/acme-solar-business-plan.pdf" },
+    { "id": "demo-ev", "name": "ev-battery-industry-report-2026.pdf", "modifiedTime": "2026-10-12T10:00:00Z", "path": "demo/ev-battery-industry-report-2026.pdf" },
+    { "id": "demo-notes", "name": "meeting-notes.pdf", "modifiedTime": "2026-10-14T10:00:00Z", "path": "demo/meeting-notes.pdf" }
+  ]
+}
