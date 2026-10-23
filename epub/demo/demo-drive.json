@@ -1,0 +1,14 @@
+{
+  "manifest": {
+    "version": 1,
+    "updated": "2026-10-23T07:45:00Z",
+    "tags": ["Business plans", "Industry reports", "Research papers", "Technical docs", "Summaries", "Books", "Financial"],
+    "items": [
+      { "fileId": "demo-yellow", "name": "The Yellow Wallpaper - Charlotte Perkins Gilman", "tags": ["Books"], "added": "2026-10-23", "chapters": 3 }
+    ]
+  },
+  "files": [
+    { "id": "demo-yellow", "name": "The Yellow Wallpaper.epub", "modifiedTime": "2026-10-23T07:00:00Z", "path": "demo/yellow-wallpaper.epub" },
+    { "id": "demo-alice", "name": "Alice's Adventures in Wonderland.epub", "modifiedTime": "2026-10-23T07:00:00Z", "path": "demo/alice-epub2.epub" }
+  ]
+}

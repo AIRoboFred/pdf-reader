@@ -1,0 +1,130 @@
+
+=== 11.epub3.images.epub (0.19 MB, parsed in 63 ms)
+title: Alice's Adventures in Wonderland
+author: Lewis Carroll
+paragraphs: 872, characters: 160696, chapters: 17
+    1. The Project Gutenberg eBook of Alice's Adventures in Wonderland  [9 ¶]  “The Project Gutenberg eBook of Alice's Adventures in Wonderland”
+    2. Alice’s Adventures in Wonderland  [2 ¶]  “Alice’s Adventures in Wonderland”
+    3. THE MILLENNIUM FULCRUM EDITION 3.0  [1 ¶]  “THE MILLENNIUM FULCRUM EDITION 3.0”
+    4. Contents  [25 ¶]  “Contents”
+    5. CHAPTER I. Down the Rabbit-Hole  [25 ¶]  “CHAPTER I. Down the Rabbit-Hole”
+    6. CHAPTER II. The Pool of Tears  [26 ¶]  “CHAPTER II. The Pool of Tears”
+    7. CHAPTER III. A Caucus-Race and a Long Tale  [49 ¶]  “CHAPTER III. A Caucus-Race and a Long Tale”
+    8. CHAPTER IV. The Rabbit Sends in a Little Bill  [43 ¶]  “CHAPTER IV. The Rabbit Sends in a Little Bill”
+    9. CHAPTER V. Advice from a Caterpillar  [69 ¶]  “CHAPTER V. Advice from a Caterpillar”
+   10. CHAPTER VI. Pig and Pepper  [81 ¶]  “CHAPTER VI. Pig and Pepper”
+   11. CHAPTER VII. A Mad Tea-Party  [106 ¶]  “CHAPTER VII. A Mad Tea-Party”
+   12. CHAPTER VIII. The Queen’s Croquet-Ground  [72 ¶]  “CHAPTER VIII. The Queen’s Croquet-Ground”
+   13. CHAPTER IX. The Mock Turtle’s Story  [93 ¶]  “CHAPTER IX. The Mock Turtle’s Story”
+   14. CHAPTER X. The Lobster Quadrille  [77 ¶]  “CHAPTER X. The Lobster Quadrille”
+   15. CHAPTER XI. Who Stole the Tarts?  [75 ¶]  “CHAPTER XI. Who Stole the Tarts?”
+   16. CHAPTER XII. Alice’s Evidence  [72 ¶]  “CHAPTER XII. Alice’s Evidence”
+   17. THE FULL PROJECT GUTENBERG™ LICENSE  [47 ¶]  “THE FULL PROJECT GUTENBERG™ LICENSE”
+PASS has text
+PASS chapters in order, each starts at its own first paragraph
+
+=== 11.epub.noimages.epub (0.14 MB, parsed in 38 ms)
+title: Alice's Adventures in Wonderland
+author: Lewis Carroll
+paragraphs: 872, characters: 160696, chapters: 17
+    1. The Project Gutenberg eBook of Alice's Adventures in Wonderland  [9 ¶]  “The Project Gutenberg eBook of Alice's Adventures in Wonderland”
+    2. Alice’s Adventures in Wonderland  [2 ¶]  “Alice’s Adventures in Wonderland”
+    3. THE MILLENNIUM FULCRUM EDITION 3.0  [1 ¶]  “THE MILLENNIUM FULCRUM EDITION 3.0”
+    4. Contents  [25 ¶]  “Contents”
+    5. CHAPTER I. Down the Rabbit-Hole  [25 ¶]  “CHAPTER I. Down the Rabbit-Hole”
+    6. CHAPTER II. The Pool of Tears  [26 ¶]  “CHAPTER II. The Pool of Tears”
+    7. CHAPTER III. A Caucus-Race and a Long Tale  [49 ¶]  “CHAPTER III. A Caucus-Race and a Long Tale”
+    8. CHAPTER IV. The Rabbit Sends in a Little Bill  [43 ¶]  “CHAPTER IV. The Rabbit Sends in a Little Bill”
+    9. CHAPTER V. Advice from a Caterpillar  [69 ¶]  “CHAPTER V. Advice from a Caterpillar”
+   10. CHAPTER VI. Pig and Pepper  [81 ¶]  “CHAPTER VI. Pig and Pepper”
+   11. CHAPTER VII. A Mad Tea-Party  [106 ¶]  “CHAPTER VII. A Mad Tea-Party”
+   12. CHAPTER VIII. The Queen’s Croquet-Ground  [72 ¶]  “CHAPTER VIII. The Queen’s Croquet-Ground”
+   13. CHAPTER IX. The Mock Turtle’s Story  [93 ¶]  “CHAPTER IX. The Mock Turtle’s Story”
+   14. CHAPTER X. The Lobster Quadrille  [77 ¶]  “CHAPTER X. The Lobster Quadrille”
+   15. CHAPTER XI. Who Stole the Tarts?  [75 ¶]  “CHAPTER XI. Who Stole the Tarts?”
+   16. CHAPTER XII. Alice’s Evidence  [72 ¶]  “CHAPTER XII. Alice’s Evidence”
+   17. THE FULL PROJECT GUTENBERG™ LICENSE  [47 ¶]  “THE FULL PROJECT GUTENBERG™ LICENSE”
+PASS has text
+PASS chapters in order, each starts at its own first paragraph
+
+=== 1952.epub3.images.epub (0.23 MB, parsed in 20 ms)
+title: The Yellow Wallpaper
+author: Charlotte Perkins Gilman
+paragraphs: 329, characters: 49898, chapters: 3
+    1. The Project Gutenberg eBook of The Yellow Wallpaper  [9 ¶]  “The Project Gutenberg eBook of The Yellow Wallpaper”
+    2. The Yellow Wallpaper  [273 ¶]  “The Yellow Wallpaper”
+    3. THE FULL PROJECT GUTENBERG™ LICENSE  [47 ¶]  “THE FULL PROJECT GUTENBERG™ LICENSE”
+PASS has text
+PASS chapters in order, each starts at its own first paragraph
+
+=== 1342.epub.noimages.epub (0.56 MB, parsed in 121 ms)
+title: Pride and Prejudice
+author: Jane Austen
+paragraphs: 2465, characters: 730819, chapters: 64
+    1. The Project Gutenberg eBook of Pride and Prejudice  [12 ¶]  “The Project Gutenberg eBook of Pride and Prejudice”
+    2. PRIDE. and PREJUDICE  [228 ¶]  “PRIDE. and PREJUDICE”
+    3. Chapter I.  [39 ¶]  “Chapter I.”
+    4. I hope Mr. Bingley will like it. CHAPTER II.  [29 ¶]  “I hope Mr. Bingley will like it. CHAPTER II.”
+    5. He rode a black horse. CHAPTER III.  [26 ¶]  “He rode a black horse. CHAPTER III.”
+    6. CHAPTER IV.  [17 ¶]  “CHAPTER IV.”
+    7. CHAPTER V.  [26 ¶]  “CHAPTER V.”
+    8. CHAPTER VI.  [56 ¶]  “CHAPTER VI.”
+    9. A note for Miss Bennet. CHAPTER VII.  [52 ¶]  “A note for Miss Bennet. CHAPTER VII.”
+   10. Covering a screen. CHAPTER VIII.  [60 ¶]  “Covering a screen. CHAPTER VIII.”
+   11. Mrs Bennet and her two youngest girls. CHAPTER IX.  [40 ¶]  “Mrs Bennet and her two youngest girls. CHAPTER IX.”
+   12. CHAPTER X.  [69 ¶]  “CHAPTER X.”
+   13. Piling up the fire. CHAPTER XI.  [35 ¶]  “Piling up the fire. CHAPTER XI.”
+   14. CHAPTER XII.  [8 ¶]  “CHAPTER XII.”
+   15. CHAPTER XIII  [31 ¶]  “CHAPTER XIII”
+   16. CHAPTER XIV  [20 ¶]  “CHAPTER XIV”
+   17. CHAPTER XV.  [14 ¶]  “CHAPTER XV.”
+   18. CHAPTER XVI.  [63 ¶]  “CHAPTER XVI.”
+   19. delighted to see their dear friend again. CHAPTER XVII.  [16 ¶]  “delighted to see their dear friend again. CHAPTER XVII.”
+   20. CHAPTER XVIII.  [80 ¶]  “CHAPTER XVIII.”
+   21. “to assure you in the most animated language.” CHAPTER XIX.  [23 ¶]  ““to assure you in the most animated language.” CHAPTER XIX.”
+   22. CHAPTER XX.  [37 ¶]  “CHAPTER XX.”
+   23. CHAPTER XXI.  [31 ¶]  “CHAPTER XXI.”
+   24. CHAPTER XXII.  [23 ¶]  “CHAPTER XXII.”
+   25. “Protested he must be entirely mistaken.” CHAPTER XXIII.  [27 ¶]  ““Protested he must be entirely mistaken.” CHAPTER XXIII.”
+   26. CHAPTER XXIV.  [32 ¶]  “CHAPTER XXIV.”
+   27. CHAPTER XXV.  [23 ¶]  “CHAPTER XXV.”
+   28. “Will you come and see me.” CHAPTER XXVI.  [31 ¶]  ““Will you come and see me.” CHAPTER XXVI.”
+   29. “On the Stairs.” CHAPTERXXVII.  [24 ¶]  ““On the Stairs.” CHAPTERXXVII.”
+   30. “At the door.” CHAPTERXXVIII.  [23 ¶]  ““At the door.” CHAPTERXXVIII.”
+   31. “Lady Catherine, said she, you have given me a treasure.” CHAPTER XXIX.  [43 ¶]  ““Lady Catherine, said she, you have given me a treasure.” CHAPTER XXIX.”
+   32. CHAPTER XXX.  [17 ¶]  “CHAPTER XXX.”
+   33. CHAPTER XXXI.  [31 ¶]  “CHAPTER XXXI.”
+   34. CHAPTER XXXII.  [34 ¶]  “CHAPTER XXXII.”
+   35. “On looking up.” CHAPTER XXXIII.  [42 ¶]  ““On looking up.” CHAPTER XXXIII.”
+   36. CHAPTER XXXIV.  [32 ¶]  “CHAPTER XXXIV.”
+   37. “Hearing herself called.” CHAPTER XXXV.  [7 ¶]  ““Hearing herself called.” CHAPTER XXXV.”
+   38. CHAPTER XXXVI.  [17 ¶]  “CHAPTER XXXVI.”
+   39. “His parting obeisance.” CHAPTER XXXVII.  [23 ¶]  ““His parting obeisance.” CHAPTER XXXVII.”
+   40. “The elevation of his feelings.” CHAPTER XXXVIII.  [19 ¶]  ““The elevation of his feelings.” CHAPTER XXXVIII.”
+   41. “How nicely we are crammed in.” CHAPTER XXXIX.  [27 ¶]  ““How nicely we are crammed in.” CHAPTER XXXIX.”
+   42. CHAPTER XL.  [37 ¶]  “CHAPTER XL.”
+   43. “When Colonel Miller’s regiment went away.” CHAPTER XLI.  [43 ¶]  ““When Colonel Miller’s regiment went away.” CHAPTER XLI.”
+   44. “The arrival of the Gardiners.” CHAPTER XLII.  [19 ¶]  ““The arrival of the Gardiners.” CHAPTER XLII.”
+   45. “Conjecturing as to the date.” CHAPTER XLIII.  [80 ¶]  ““Conjecturing as to the date.” CHAPTER XLIII.”
+   46. CHAPTER XLIV.  [21 ¶]  “CHAPTER XLIV.”
+   47. “Engaged by the river.” CHAPTER XLV.  [21 ¶]  ““Engaged by the river.” CHAPTER XLV.”
+   48. Chapter XLVI.  [34 ¶]  “Chapter XLVI.”
+   49. “The first pleasing earnest of their welcome.” CHAPTER XLVII.  [74 ¶]  ““The first pleasing earnest of their welcome.” CHAPTER XLVII.”
+   50. “The Post.” CHAPTER XLVIII.  [38 ¶]  ““The Post.” CHAPTER XLVIII.”
+   51. CHAPTER XLIX.  [58 ¶]  “CHAPTER XLIX.”
+   52. “The spiteful old ladies.” CHAPTER L.  [24 ¶]  ““The spiteful old ladies.” CHAPTER L.”
+   53. “With an affectionate smile.” CHAPTER LI.  [41 ¶]  ““With an affectionate smile.” CHAPTER LI.”
+   54. “I am sure she did not listen.” CHAPTER LII.  [39 ¶]  ““I am sure she did not listen.” CHAPTER LII.”
+   55. “Mr. Darcy with him.” CHAPTER LIII.  [61 ¶]  ““Mr. Darcy with him.” CHAPTER LIII.”
+   56. “Jane happened to look round.” CHAPTER LIV.  [37 ¶]  ““Jane happened to look round.” CHAPTER LIV.”
+   57. “Lizzy, my dear, I want to speak to you.” CHAPTER LV.  [57 ¶]  ““Lizzy, my dear, I want to speak to you.” CHAPTER LV.”
+   58. CHAPTER LVI.  [79 ¶]  “CHAPTER LVI.”
+   59. “But now it comes out.” CHAPTER LVII.  [22 ¶]  ““But now it comes out.” CHAPTER LVII.”
+   60. “The efforts of his aunt.” CHAPTER LVIII.  [47 ¶]  ““The efforts of his aunt.” CHAPTER LVIII.”
+   61. “Unable to utter a syllable.” CHAPTER LIX.  [49 ¶]  ““Unable to utter a syllable.” CHAPTER LIX.”
+   62. “The obsequious civility.” CHAPTER LX.  [30 ¶]  ““The obsequious civility.” CHAPTER LX.”
+   63. CHAPTER LXI.  [20 ¶]  “CHAPTER LXI.”
+   64. THE FULL PROJECT GUTENBERG™ LICENSE  [47 ¶]  “THE FULL PROJECT GUTENBERG™ LICENSE”
+PASS has text
+PASS chapters in order, each starts at its own first paragraph
+PASS no page errors

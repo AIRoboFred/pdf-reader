@@ -163,3 +163,33 @@ speech on a computer with no voices installed.
 
 Local test: `cd pdf-reader && python3 -m http.server 8765`, then open
 `http://localhost:8765/?demo=1`.
+
+---
+
+## EPUB Reader (`epub/`)
+
+A sibling app for EPUB books lives in `epub/` and is served from
+`https://airobofred.github.io/pdf-reader/epub/`. It looks and works like the PDF Reader (Google
+sign-in, tag filters, on-device speech, speed and voice), plus a **chapter picker** (☰ in the
+reader, or tap the chapter name under the title) and per-book reading position.
+
+- **Drive folder:** **EPUB Reader Library** `1KJNdHYCIrMNNdJavORBLXMJIJCHz000a` (owner
+  greengotme007@gmail.com, shared with nobody). `epub/config.js` already holds it and the client ID.
+- **Manifest:** the newest `library.json` in that folder. Same schema as the PDF one, with
+  `"chapters"` in place of `"pages"`:
+  `{ "fileId": "…", "name": "Title - Author", "tags": ["Books"], "added": "2026-10-23", "chapters": 26 }`
+- **OAuth:** same client, same origin, so nothing new is needed for the browser popup. For the
+  **Home Screen** app (full-page redirect sign-in) add one more **Authorized redirect URI**:
+  `https://airobofred.github.io/pdf-reader/epub/` (Clients → PDF Reader web → Add URI).
+- **PWA:** its own `manifest.webmanifest`, service worker (`epub/sw.js`, scope `/pdf-reader/epub/`,
+  cache `epubr-v1`) and teal icon, so it installs as a separate Home Screen app. The PDF Reader's
+  `sw.js` (now `pdfr-v3`) ignores `/epub/` and only clears its own `pdfr-*` caches, so the two
+  never clash.
+- **Parsing:** JSZip 3.10.1 (bundled in `epub/vendor/jszip/`, MIT) reads `container.xml` → OPF
+  → spine, and the text of each XHTML file in spine order. Chapters come from the book's own table
+  of contents (EPUB 3 nav or EPUB 2 NCX), falling back to one chapter per spine file. DRM-protected
+  EPUBs (Kindle/Apple Books/Adobe DRM) can't be read.
+- **Demo / tests:** `epub/?demo=1&mockspeech=1` uses two bundled public-domain Gutenberg EPUBs.
+  `python3 -m http.server 8765` in `pdf-reader/`, then `cd epub/tests && npm i && node e2e.mjs`
+  (UI test, writes `epub/screenshots/`) or `node parse-test.mjs book1.epub book2.epub` (parser
+  report for any EPUB files).

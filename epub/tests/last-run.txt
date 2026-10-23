@@ -1,0 +1,32 @@
+PASS library lists both demo EPUBs — The Yellow Wallpaper - Charlotte Perkins Gilman | Alice's Adventures in Wonderland
+PASS same 7 tags as the PDF app + Untagged — All2,Business plans0,Industry reports0,Research papers0,Technical docs0,Summaries0,Books1,Financial0,Untagged1
+PASS tag filter "Books" — The Yellow Wallpaper - Charlotte Perkins Gilman
+PASS EPUB opened and parsed — {"id":"demo-alice","sentences":2036,"paragraphs":872,"chapters":17,"title":"Alice's Adventures in Wonderland","author":"Lewis Carroll"}
+PASS chapter dividers in spine order — Contents | CHAPTER I. Down the Rabbit-Hole | CHAPTER II. The Pool of Tears | CHAPTER III. A Caucus-Race and a Long Tale
+PASS voice picker prefers en-US Premium voice
+PASS chapter picker lists all chapters — 17 items
+PASS picking a chapter jumps to its first sentence — {"p":37,"ch":4,"text":"CHAPTER I."}
+PASS subtitle shows chapter
+PASS speech issued on Play and advances — 3 utterances, first: "Alice was beginning to get very tired of sitting by her sist"
+PASS utterances ≤220 chars
+PASS next paragraph
+PASS sentence skip fwd/back
+PASS next chapter button — CHAPTER II.
+PASS prev chapter: 1st press → start of current, 2nd → previous chapter — CHAPTER II. → CHAPTER I.
+PASS speed 1.5× applied
+PASS position saved per book in localStorage (epubr: namespace) — {"i":146,"n":2036,"ch":5,"t":1792741691763}
+PASS position restored after reload
+PASS EPUB 3 (nav doc) book opens at its own start
+PASS library shows progress + chapter count
+PASS signed-out view shows Google sign-in card, configured client id
+PASS Drive mode: newest library.json + folder listing merged; non-EPUB files ignored — Yellow Wallpaper (manifest)|Some Other Book
+PASS Drive mode: Bearer token; queries scoped to the EPUB folder; newest manifest first
+PASS Drive mode: EPUB downloaded via alt=media and parsed
+PASS service worker scoped to /epub/ — {"scope":"http://localhost:8765/epub/","script":"http://localhost:8765/epub/sw.js"}
+PASS cache named 'epubr-v1' — epubr-v1
+PASS manifest: own name/scope/start_url
+PASS PDF app still loads with its own SW; EPUB cache survives — {"regs":["http://localhost:8765/epub/","http://localhost:8765/"],"caches":["epubr-v1","pdfr-v3"],"title":"PDF Reader"}
+PASS no CDN requests besides Google sign-in (JSZip bundled)
+PASS no page errors
+
+30/30 passed
